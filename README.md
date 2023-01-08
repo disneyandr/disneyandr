@@ -1,7 +1,7 @@
 ## Olá eu sou Disney Andrade, Desenvolvedor Web! 👋
 
 - 🔭 Atualmente trabalho com PHP JS HTML5 CSS3 
-- 🌱 Estou estudando React/Node e já fiz alguns projetos pessoais
+- 🌱 Estou estudando React/Node - já fiz alguns projetos pessoais
 
 <div align="center">
   <a href="https://github.com/disneyandr">
