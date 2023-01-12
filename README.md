@@ -1,12 +1,9 @@
 ## Olá eu sou Disney Andrade, Desenvolvedor Web! 👋
 
 - 🔭 Atualmente trabalho com PHP JS HTML5 CSS3 
-- 🌱 Estou estudando React/Node - já fiz alguns projetos pessoais
+- 🌱 Estou estudando React - projetos pessoais
 
-<div align="center">
-  <a href="https://github.com/disneyandr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=disneyandr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Disney-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Disney-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
