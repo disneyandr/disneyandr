@@ -12,7 +12,7 @@
   <img align="center" alt="Disney-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Disney-Laravel" height="30" width="40" style="color: red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg">
   <img align="center" alt="Disney-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Disney-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Disney-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     
 
  
