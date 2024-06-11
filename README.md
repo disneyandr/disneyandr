@@ -1,6 +1,6 @@
 ## Olá eu sou Disney Andrade, Desenvolvedor Web! 👋
 
-- 🔭 Atualmente desenvolvendo com PHP usando Laravele e Vue  (site e app de relacionamento)
+- 🔭 Atualmente desenvolvendo com PHP usando Laravel e Vue  (site e app de relacionamento)
 - 🌱 Alguns freelas e projetos pessoais em React
 
 
